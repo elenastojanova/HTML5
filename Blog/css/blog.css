@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica;	
+
+}
+
+ .mainmenu {   
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+	list-style: none;
+}
+li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+p {
+	margin-left: 10px;
+	margin-bottom: 15px;
+	padding: 15px;
+}
+a {
+	color:#CC3366 ;
+	text-decoration: none;
+
+}
+
+
+
+main>div{
+		margin: 0.5%;
+		min-height: 300px;
+		float:left;
+}
+img{
+	margin-top: 0.5%;
+	
+}
+.left1 {
+	    margin-top: -450px;
+    margin-left: 350px;
+
+}
+.right1{
+	    margin-top: -450px;
+}
+.left2{
+	margin-left:350px;
+}
+.right2{
+	margin-left:-220;
+}
+.search{
+	margin-left: 30px;
+}
