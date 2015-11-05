@@ -1,0 +1,39 @@
+div.main{
+	width:220px;
+	height: 120px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: #cbcfd8;
+}
+
+div.main p{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: #8a91a3;
+	text-align: center;
+	margin-bottom: 25px;
+}
+ 
+ button.yes{
+	color: #fff;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding: 5px 20px 5px 20px;
+	border-radius: 10px;
+	background-color: #ed5466;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+ button.no{
+	color: #fff;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding: 5px 20px 5px 20px;
+	border-radius: 10px;
+	background-color: #ccd0d9;
+
+}
+
+

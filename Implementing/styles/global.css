@@ -1,0 +1,49 @@
+div.main{
+	width: 700px;
+	height: 350px;
+	font-family: sans-serif;
+	margin: 40px 43px 37px 43px;
+
+}
+
+div.main h1{
+	font-weight: normal;
+	font-size: 30px;
+	color: #414b55;
+}
+
+div.main p{
+	font-weight: normal;
+	font-size: 15px;
+	color: #aab3bc;
+}
+
+div.main ul{
+	list-style: none;
+	display: inline-block;
+	position: relative;	
+	padding-left: 0px;
+	}
+
+div.main li{
+	float: left;
+	display: block;
+	color: #aab3bc;
+	padding-right: 20px;
+}
+
+button.more{
+	color: #fff;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding: 10px 20px 10px 20px;
+	border-radius: 10px;
+	background-color: #6ea534;
+	float: right;
+	margin-right: 42px;
+}
+
+hr{
+	width: 90%;
+	color: #aab3bc;
+}

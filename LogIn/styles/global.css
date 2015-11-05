@@ -1,0 +1,47 @@
+div.main{
+	width: 300px;
+	height: 360px;
+	margin-top: 30px;
+	margin-left: 20px;
+	font-family: sans-serif;
+}
+
+div.main h1{
+	font-weight: normal;
+	margin-bottom: 25px;
+	color: #333941;
+}
+
+div.main p{
+	color: #9298a0;
+	font-size:15px;
+}
+
+div.main h3{
+	display: block;
+	font-size: 15px;
+	font-weight: normal;
+	color: #333941 ;
+	margin-bottom: 10px;
+}
+
+div.main p{
+	margin-top: 20px;
+
+}
+
+ div.main p i{
+		color: #78b530;
+		padding-right: 5px;
+ }
+
+ button.login{
+	color: #fff;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding: 10px 20px 10px 20px;
+	border-radius: 10px;
+	background-color: #78b530;
+	margin-top: 20px;
+	float: right;
+}
