@@ -1,0 +1,33 @@
+div.main{
+	width: 675px;
+	height: 215px;
+	background-image: url('../images/pozadina.jpg');
+}
+
+div.main img{
+	width: 160px;
+	height: 215px;
+}
+
+ div.right{
+	width:515px;
+	height: 215px;
+	display: inline-block;
+	float: right;
+}
+
+div.right h1{
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #fff;
+}
+div.right i{
+	color: #fff;
+}
+
+div.right span{
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 15px;
+}

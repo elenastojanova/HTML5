@@ -1,0 +1,80 @@
+body{
+	background-color: #b2a8a5;
+}
+
+div.main{
+	width: 378px;
+	height: 231px;
+	background-color: #fff;
+}
+
+div.inf{
+	width: 210px;
+	height: 231px;
+	display: inline-block;
+}
+
+div.login{
+	display: inline-block;
+	float: right;
+	background-color: #fc6e51;
+	width:  168px;
+	height: 231px;
+}
+
+div.inf h1{
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 25px;
+	margin: 30px 100px 30px 15px;
+}
+
+div.inf p{
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 15px;
+	margin-left: 15px;
+	color: #aab2be;
+}
+
+div.inf input#name{
+	margin-left: 15px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+	padding: 5px;
+	color: #b7bdc7;
+	border-radius: 5px;
+}
+
+div.inf input#password{
+	margin-left: 15px;
+	margin-bottom: 23px;
+	padding:5px;
+	color: #b7bdc7;
+	border-radius: 5px;
+}
+
+button.login{
+	color: #fff;
+	font-size: 15px;
+	text-transform: uppercase;
+	padding: 10px 25px 10px 25px;
+	border-radius: 5px;
+	background-color: #434a54;
+	display: block;
+	border: none;
+	font-weight: bold;
+	margin: 95px 30px 50px 30px;
+}
+
+div.login span{
+	color: #fff;
+	padding-left: 6px;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+div i{
+	color: #434a54;
+	margin-left: 30px;
+}

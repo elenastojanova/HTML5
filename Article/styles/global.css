@@ -1,0 +1,46 @@
+body{
+	background-color: #1b1b1b;
+}
+
+div.main{
+	width:380px;
+	height: 410px;
+	font-family: sans-serif;
+}
+
+div.top{
+	width: 380px;
+	height: 292px;
+	background-image: url('../images/slika1.jpg');
+	background-repeat: no-repeat;
+}
+
+div.top h1{
+	font-size: 30px;
+	font-weight: normal;
+	color:#fff;
+	padding-top: 30px;
+	padding-left: 30px;
+	margin-bottom: 10px;
+}
+
+div.top p{
+	font-size: 15px;
+	color: #3e3c3e;
+	padding-left: 30px;
+}
+
+
+div.bottom{
+	width: 380px;
+	height: 118px;
+	background-color: #fff;
+}
+
+div.bottom p{
+	font-size: 15px;
+	margin-top:0;
+	color: #989898;
+	padding: 20px 10px 20px 20px;
+
+}

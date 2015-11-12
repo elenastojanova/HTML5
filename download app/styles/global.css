@@ -1,0 +1,47 @@
+div.main{
+	width: 303px;
+	height: 362px;
+	background-color: #a0d468;
+}
+
+div.main ul{
+	list-style: none;
+	display: inline-block;
+	position: relative;	
+	padding: 60px 50px 20px 50px;
+
+}
+
+div.main li{
+	float: left;
+	display: block;
+	color: #fff;
+	padding: 5px;
+}
+
+div.main li i{
+	font-size: 60px;
+}
+
+div.main h1{
+	font-family:sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	color: #fff;
+	text-align: center;
+	padding: 0px 30px 9px 30px;
+}
+
+button.download{
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 10px 20px 10px 20px;
+	border-radius: 10px;
+	background-color: #434a54;	
+	box-shadow: none;
+	border: none;
+	margin-left: 60px;
+	margin-bottom: 40px;
+}

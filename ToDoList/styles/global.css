@@ -1,0 +1,48 @@
+body{
+	background-color: #f09e8e;
+}
+
+div.list{
+	width:300px;
+	height: 320px;
+	border-radius: 4px;
+	background-color: #fff;
+	font-family: sans-serif;
+}
+
+div.list h1{
+	font-size: 25px;
+	font-weight: normal;
+	color: #8e9196;
+	padding-top: 24px;
+	padding-left: 20px;
+}
+
+div.list div.options div{
+	padding: 10px 0 10px 0;
+	font-size: 15px;
+	color: #bec5d0;
+
+}
+
+div.list hr{
+	opacity: 0.5;
+
+}
+
+div.list div.options input#cbox1{
+	margin-left: 24px;
+	margin-right: 10px;
+}
+div.list div.options input#cbox2{
+	margin-left: 24px;
+	margin-right: 10px;
+}
+div.list div.options input#cbox3{
+	margin-left: 24px;
+	margin-right: 10px;
+}
+div.list div.options input#cbox4{
+	margin-left: 24px;
+	margin-right: 10px;
+}
