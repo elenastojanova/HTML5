@@ -1,0 +1,24 @@
+ div.top {
+		height:300px;
+	}
+
+	 div.top div.center{
+		height: 100%;	
+	}
+
+div.top div.center ul.left{
+float:none;
+}
+div.top div.center ul.left li{
+	float: none;
+}
+div.top div.center ul.right
+{
+	float: left;
+	height: 100%;
+}
+div.top div.center ul.right li{
+	float: none;
+}
+
+	
