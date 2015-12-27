@@ -1,0 +1,41 @@
+div.gholder{
+	width:600px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: silver;
+	padding: 10px;
+}
+
+	div.bigImageHolder{
+		width: 600px;
+		height: 400px;
+		background-color: #fff;
+	}
+
+		div.bigImageHolder img{
+			width: 600px;
+			height: 400px;
+		}
+
+	div.smallImageHolder{
+		width:590px;
+		height: 100px;
+		background-color: #fff;
+		margin: 5px auto;
+	}
+
+		div.smallImageHolder img{
+			width: 90px;
+			height: 90px;
+			display: inline-block;
+			margin: 2px;
+			opacity: 0.9;
+			transition: border-radius 0.3s linear 0s;
+			transition: opacity 0.1s linear 0s;
+		}
+
+		div.smallImageHolder img:hover{
+			border-radius: 5px;
+			cursor: pointer;
+			opacity: 1;
+		}
